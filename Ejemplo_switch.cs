@@ -8,5 +8,10 @@ namespace Semana_3_
 {
     class Ejemplo_switch
     {
+
+        public static void estructura_switch()
+        {
+            System.Console.WriteLine("switch externo");
+        }
     }
 }
