@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace Semana_3_
 {
-    class Program
+    class menu
     {
-        static void Main(string[] args)
-        {
-
-
-                    }
     }
 }

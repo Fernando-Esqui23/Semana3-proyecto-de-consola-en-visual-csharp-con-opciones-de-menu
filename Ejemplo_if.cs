@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace Semana_3_
 {
-    class Program
+    class Ejemplo_if
     {
-        static void Main(string[] args)
-        {
-
-
-                    }
     }
 }
